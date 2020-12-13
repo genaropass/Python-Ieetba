@@ -1,0 +1,4 @@
+Este trabajo se trataba de hacer una comparacion de acciones del mercado financiero
+y que sirviera para comparar tambien otras acciones de una lista dada, pero tambien 
+funciona dando cualquier otra accion que se encuentre en yahoo finance 
+
